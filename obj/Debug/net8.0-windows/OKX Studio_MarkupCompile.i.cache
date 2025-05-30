@@ -1,0 +1,20 @@
+﻿OKX Studio
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\
+OKX_Studio
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\WorkStation\Console\OKX Studio\App.xaml
+7-60516536
+1-282161110
+12406579784
+204-1712202022
+CustomStyle.xaml;Themes\DarkTheme.xaml;Themes\LightTheme.xaml;UserControls\DoubleTextBox.xaml;UserControls\NonNegativeDoubleTextBox.xaml;UserControls\NonNegativeIntTextBox.xaml;Views\MainWindow.xaml;
+
+False
+

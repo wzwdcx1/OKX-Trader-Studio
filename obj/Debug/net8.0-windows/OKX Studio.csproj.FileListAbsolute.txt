@@ -1,0 +1,41 @@
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\OKX Studio.exe
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\OKX Studio.deps.json
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\OKX Studio.runtimeconfig.json
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\OKX Studio.dll
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\OKX Studio.pdb
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.csproj.AssemblyReference.cache
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\App.g.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio_MarkupCompile.cache
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio_MarkupCompile.lref
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.g.resources
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.AssemblyInfoInputs.cache
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.AssemblyInfo.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.csproj.CoreCompileInputs.cache
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.csproj.Up2Date
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.dll
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\refint\OKX Studio.dll
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.pdb
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio.genruntimeconfig.cache
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\ref\OKX Studio.dll
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\Autofac.dll
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\CustomStyle.baml
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\App.baml
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\Images\量化.ico
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\OKX Studio_Content.g.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\Themes\DarkTheme.baml
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\Themes\LightTheme.baml
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\DoubleTextBox.g.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeDoubleTextBox.g.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeIntTextBox.g.cs
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\DoubleTextBox.baml
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeDoubleTextBox.baml
+D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeIntTextBox.baml
+D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\OkxApi.dll
