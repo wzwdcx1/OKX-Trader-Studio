@@ -1,78 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WorkStation\\Console\\OKX Studio\\",
+  "WorkspaceRootPath": "S:\\WorkProjects\\OKX-Trader-Studio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\okx studio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:okx studio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\apiinfos\\kline_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\common\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\models\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:models\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\usercontrols\\nonnegativeinttextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\nonnegativeinttextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\get\\getmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\usercontrols\\doubletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\doubletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\models\\okxcandlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\usercontrols\\doubletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\okxapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\models\\apidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\models\\apiinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\models\\iapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\models\\okxapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08306B15-7E8D-EF39-4AC2-2A266EB37742}|..\\OKX-API\\OkxApi.csproj|s:\\workprojects\\okx-api\\models\\apikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\functions\\processtradedatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:functions\\processtradedatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\usercontrols\\doubletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\doubletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\usercontrols\\nonnegativedoubletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\okx studio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:okx studio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\models\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:models\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\usercontrols\\nonnegativeinttextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\nonnegativeinttextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\usercontrols\\doubletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\doubletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\usercontrols\\nonnegativedoubletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\nonnegativedoubletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\usercontrols\\nonnegativedoubletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\usercontrols\\nonnegativedoubletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\nonnegativedoubletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\usercontrols\\nonnegativeinttextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\usercontrols\\nonnegativeinttextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:usercontrols\\nonnegativeinttextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\customstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\customstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:customstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|s:\\workprojects\\okx-trader-studio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|d:\\workstation\\console\\okx studio\\okx studio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{FF7666A1-61A6-4770-A2E6-AA72189AD388}|OKX Studio.csproj|solutionrelative:okx studio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,50 +121,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OkxCandlestick.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Models\\OkxCandlestick.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Models\\OkxCandlestick.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Models\\OkxCandlestick.cs",
+              "RelativeToolTip": "..\\OKX-API\\Models\\OkxCandlestick.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAnwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:07:23.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Common\\Converters.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Common\\Converters.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Common\\Converters.cs",
+              "RelativeToolTip": "..\\OKX-API\\Common\\Converters.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:44:03.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KLine_History.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\ApiInfos\\KLine_History.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\ApiInfos\\KLine_History.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\ApiInfos\\KLine_History.cs",
+              "RelativeToolTip": "..\\OKX-API\\ApiInfos\\KLine_History.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwFIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:22:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:58:30.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Common.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\Models\\Common.cs",
-              "RelativeDocumentMoniker": "Models\\Common.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\Models\\Common.cs",
-              "RelativeToolTip": "Models\\Common.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Program.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Program.cs",
+              "RelativeToolTip": "..\\OKX-API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:28:05.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DoubleTextBox.xaml.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\DoubleTextBox.xaml.cs",
-              "RelativeDocumentMoniker": "UserControls\\DoubleTextBox.xaml.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\DoubleTextBox.xaml.cs",
-              "RelativeToolTip": "UserControls\\DoubleTextBox.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:22:18.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T08:14:57.772Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\Views\\MainWindow.xaml",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\Views\\MainWindow.xaml*",
+              "RelativeToolTip": "Views\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-22T11:55:50.329Z",
               "EditorCaption": ""
@@ -133,136 +204,258 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NonNegativeIntTextBox.xaml",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeIntTextBox.xaml",
-              "RelativeDocumentMoniker": "UserControls\\NonNegativeIntTextBox.xaml",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeIntTextBox.xaml",
-              "RelativeToolTip": "UserControls\\NonNegativeIntTextBox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-22T12:22:06.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DoubleTextBox.xaml",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\DoubleTextBox.xaml",
-              "RelativeDocumentMoniker": "UserControls\\DoubleTextBox.xaml",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\DoubleTextBox.xaml",
-              "RelativeToolTip": "UserControls\\DoubleTextBox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-22T12:20:58.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OKX Studio",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\OKX Studio.csproj",
-              "RelativeDocumentMoniker": "OKX Studio.csproj",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\OKX Studio.csproj",
-              "RelativeToolTip": "OKX Studio.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T12:03:28.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Title": "GetMethod.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\GET\\GetMethod.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\GET\\GetMethod.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\GET\\GetMethod.cs",
+              "RelativeToolTip": "..\\OKX-API\\GET\\GetMethod.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:58:30.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\Models\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "Models\\RelayCommand.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\Models\\RelayCommand.cs",
-              "RelativeToolTip": "Models\\RelayCommand.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:30:32.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T08:13:58.988Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "NonNegativeDoubleTextBox.xaml",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeDoubleTextBox.xaml",
-              "RelativeDocumentMoniker": "UserControls\\NonNegativeDoubleTextBox.xaml",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeDoubleTextBox.xaml",
-              "RelativeToolTip": "UserControls\\NonNegativeDoubleTextBox.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-22T12:21:50.034Z",
-              "EditorCaption": ""
+              "Title": "ApiData.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Models\\ApiData.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Models\\ApiData.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Models\\ApiData.cs",
+              "RelativeToolTip": "..\\OKX-API\\Models\\ApiData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:07:19.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OkxApi.csproj",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\OkxApi.csproj",
+              "RelativeDocumentMoniker": "..\\OKX-API\\OkxApi.csproj",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\OkxApi.csproj",
+              "RelativeToolTip": "..\\OKX-API\\OkxApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T09:14:29.065Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "NonNegativeDoubleTextBox.xaml.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeDoubleTextBox.xaml.cs",
-              "RelativeDocumentMoniker": "UserControls\\NonNegativeDoubleTextBox.xaml.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeDoubleTextBox.xaml.cs",
-              "RelativeToolTip": "UserControls\\NonNegativeDoubleTextBox.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "ApiInfos.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Models\\ApiInfos.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Models\\ApiInfos.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Models\\ApiInfos.cs",
+              "RelativeToolTip": "..\\OKX-API\\Models\\ApiInfos.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:22:20.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T08:07:21.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "NonNegativeIntTextBox.xaml.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeIntTextBox.xaml.cs",
-              "RelativeDocumentMoniker": "UserControls\\NonNegativeIntTextBox.xaml.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\UserControls\\NonNegativeIntTextBox.xaml.cs",
-              "RelativeToolTip": "UserControls\\NonNegativeIntTextBox.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Title": "IApi.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Models\\IApi.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Models\\IApi.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Models\\IApi.cs",
+              "RelativeToolTip": "..\\OKX-API\\Models\\IApi.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vw0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:22:21.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DarkTheme.xaml",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\Themes\\DarkTheme.xaml",
-              "RelativeDocumentMoniker": "Themes\\DarkTheme.xaml",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\Themes\\DarkTheme.xaml",
-              "RelativeToolTip": "Themes\\DarkTheme.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-22T12:19:17.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:16:25.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T08:24:58.59Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "OkxApiResponse.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Models\\OkxApiResponse.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Models\\OkxApiResponse.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Models\\OkxApiResponse.cs",
+              "RelativeToolTip": "..\\OKX-API\\Models\\OkxApiResponse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:07:22.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".gitignore",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\.gitignore",
+              "RelativeDocumentMoniker": "..\\OKX-API\\.gitignore",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\.gitignore",
+              "RelativeToolTip": "..\\OKX-API\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-31T08:13:54.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\README.md",
+              "RelativeDocumentMoniker": "..\\OKX-API\\README.md",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\README.md",
+              "RelativeToolTip": "..\\OKX-API\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-31T08:42:46.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiKeys.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-API\\Models\\ApiKeys.cs",
+              "RelativeDocumentMoniker": "..\\OKX-API\\Models\\ApiKeys.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-API\\Models\\ApiKeys.cs",
+              "RelativeToolTip": "..\\OKX-API\\Models\\ApiKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:07:22.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProcessTradeDatas.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\Functions\\ProcessTradeDatas.cs",
+              "RelativeDocumentMoniker": "Functions\\ProcessTradeDatas.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\Functions\\ProcessTradeDatas.cs",
+              "RelativeToolTip": "Functions\\ProcessTradeDatas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:06:42.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NonNegativeIntTextBox.xaml",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeIntTextBox.xaml",
+              "RelativeDocumentMoniker": "UserControls\\NonNegativeIntTextBox.xaml",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeIntTextBox.xaml",
+              "RelativeToolTip": "UserControls\\NonNegativeIntTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T12:22:06.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DoubleTextBox.xaml",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\DoubleTextBox.xaml",
+              "RelativeDocumentMoniker": "UserControls\\DoubleTextBox.xaml",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\DoubleTextBox.xaml",
+              "RelativeToolTip": "UserControls\\DoubleTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T12:20:58.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OKX Studio.csproj",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\OKX Studio.csproj",
+              "RelativeDocumentMoniker": "OKX Studio.csproj",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\OKX Studio.csproj",
+              "RelativeToolTip": "OKX Studio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T12:03:28.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoubleTextBox.xaml.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\DoubleTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "UserControls\\DoubleTextBox.xaml.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\DoubleTextBox.xaml.cs",
+              "RelativeToolTip": "UserControls\\DoubleTextBox.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:22:18.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Common.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\Models\\Common.cs",
+              "RelativeDocumentMoniker": "Models\\Common.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\Models\\Common.cs",
+              "RelativeToolTip": "Models\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:28:05.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\Models\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Models\\RelayCommand.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\Models\\RelayCommand.cs",
+              "RelativeToolTip": "Models\\RelayCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:30:32.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NonNegativeDoubleTextBox.xaml",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeDoubleTextBox.xaml",
+              "RelativeDocumentMoniker": "UserControls\\NonNegativeDoubleTextBox.xaml",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeDoubleTextBox.xaml",
+              "RelativeToolTip": "UserControls\\NonNegativeDoubleTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T12:21:50.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NonNegativeDoubleTextBox.xaml.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeDoubleTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "UserControls\\NonNegativeDoubleTextBox.xaml.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeDoubleTextBox.xaml.cs",
+              "RelativeToolTip": "UserControls\\NonNegativeDoubleTextBox.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:22:20.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NonNegativeIntTextBox.xaml.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeIntTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "UserControls\\NonNegativeIntTextBox.xaml.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\UserControls\\NonNegativeIntTextBox.xaml.cs",
+              "RelativeToolTip": "UserControls\\NonNegativeIntTextBox.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:22:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\Themes\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "Themes\\DarkTheme.xaml",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\Themes\\DarkTheme.xaml",
+              "RelativeToolTip": "Themes\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T12:19:17.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:16:25.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "CustomStyle.xaml",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\CustomStyle.xaml",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\CustomStyle.xaml",
               "RelativeDocumentMoniker": "CustomStyle.xaml",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\CustomStyle.xaml",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\CustomStyle.xaml",
               "RelativeToolTip": "CustomStyle.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-22T12:05:46.976Z",
@@ -270,24 +463,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\App.xaml.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\App.xaml.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAewEYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:02:38.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T12:02:38.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\App.xaml",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\App.xaml",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-22T11:57:52.027Z",
@@ -295,28 +487,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\Views\\MainWindow.xaml.cs",
+              "DocumentMoniker": "S:\\WorkProjects\\OKX-Trader-Studio\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "S:\\WorkProjects\\OKX-Trader-Studio\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "Views\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAD4vxoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:55:48.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OKX Studio",
-              "DocumentMoniker": "D:\\WorkStation\\Console\\OKX Studio\\OKX Studio.csproj",
-              "RelativeDocumentMoniker": "OKX Studio.csproj",
-              "ToolTip": "D:\\WorkStation\\Console\\OKX Studio\\OKX Studio.csproj",
-              "RelativeToolTip": "OKX Studio.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T12:03:32.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T11:55:48.795Z"
             }
           ]
         }

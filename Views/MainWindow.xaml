@@ -58,7 +58,7 @@
         <GroupBox Header="SPOT" Margin="10" Grid.Row="0" Grid.RowSpan="3">
             <materialDesign:Card Margin="10" Background="{DynamicResource BackgroundBrush}" materialDesign:ElevationAssist.Elevation="Dp6" UniformCornerRadius="0">
                 <ListBox Width="140"  Style="{x:Null}" BorderBrush="{DynamicResource BorderBrush}" BorderThickness="1"
-                     ItemsSource="{Binding Spots}" SelectedItem="{Binding SelectSpot}" >
+                     ItemsSource="{Binding Spots}" SelectedItem="{Binding SelectSpot}">
                     <ListBox.Resources>
                         <Style TargetType="ListBoxItem">
                         </Style>
@@ -136,12 +136,21 @@
             </materialDesign:Card>
         </GroupBox>
         <GroupBox Header="GetData" Margin="10" Grid.Row="2" Grid.Column="1">
-            <Button Content="Get" Width="200"></Button>
+            <Button Command="{Binding GetCommand}" Content="Get" Width="200"></Button>
         </GroupBox>
         <GroupBox Header="Message&amp;Result" Margin="10" Grid.Row="0" Grid.Column="2" Grid.RowSpan="3">
-            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Show results or messages">
+            <Grid>
+                <StackPanel Margin="5"
+                    VerticalAlignment="Top" HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Label Content="NetworkStatus:"></Label>
+                    <Label Content="{Binding}" Foreground="{Binding     }"/>
+                </StackPanel>
                 
-            </TextBlock>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Show results or messages">
+                
+                </TextBlock>
+            </Grid>
+            
         </GroupBox>
     </Grid>
 </Window>

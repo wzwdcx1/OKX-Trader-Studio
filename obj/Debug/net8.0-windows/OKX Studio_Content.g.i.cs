@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("datas/allspot.txt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/%e9%87%8f%e5%8c%96.ico")]
 
 

@@ -39,3 +39,50 @@ D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\DoubleTe
 D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeDoubleTextBox.baml
 D:\WorkStation\Console\OKX Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeIntTextBox.baml
 D:\WorkStation\Console\OKX Studio\bin\Debug\net8.0-windows\OkxApi.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OKX Studio.exe
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\Images\量化.ico
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OKX Studio.deps.json
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OKX Studio.runtimeconfig.json
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OKX Studio.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OKX Studio.pdb
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\Autofac.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OkxApi.dll
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.csproj.AssemblyReference.cache
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\CustomStyle.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\Themes\DarkTheme.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\Themes\LightTheme.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\UserControls\DoubleTextBox.g.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeDoubleTextBox.g.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeIntTextBox.g.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\App.g.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio_Content.g.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio_MarkupCompile.cache
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio_MarkupCompile.lref
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\App.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\UserControls\DoubleTextBox.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeDoubleTextBox.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\UserControls\NonNegativeIntTextBox.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\Views\MainWindow.baml
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.g.resources
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.GeneratedMSBuildEditorConfig.editorconfig
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.AssemblyInfoInputs.cache
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.AssemblyInfo.cs
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.csproj.CoreCompileInputs.cache
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.sourcelink.json
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.csproj.Up2Date
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.dll
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\refint\OKX Studio.dll
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.pdb
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\OKX Studio.genruntimeconfig.cache
+S:\WorkProjects\OKX-Trader-Studio\obj\Debug\net8.0-windows\ref\OKX Studio.dll
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\Datas\ALLSPOT.txt
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OkxApi.deps.json
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OkxApi.runtimeconfig.json
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OkxApi.exe
+S:\WorkProjects\OKX-Trader-Studio\bin\Debug\net8.0-windows\OkxApi.pdb

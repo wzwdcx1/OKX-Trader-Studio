@@ -19,10 +19,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Datas\ALLSPOT.txt" />
     <None Remove="Images\量化.ico" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Datas\ALLSPOT.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Images\量化.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -35,9 +39,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="OkxApi">
-      <HintPath>libs\OkxApi.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\OKX-API\OkxApi.csproj" />
   </ItemGroup>
 
 </Project>
